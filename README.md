@@ -110,7 +110,7 @@ The AI-Powered Document Analysis & Extraction System is a full-stack web applica
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/pavithra-576/your-repo-name.git
 cd your-repo-name
 ```
 
